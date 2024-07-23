@@ -1,0 +1,5 @@
+Context API
+
+Step 1: Create context file where will save the context of App or Particular component and name it as .js file
+Step 2: Create a Provider using .jsx file which we will use to Wrap the App
+Step 3: Use the ContextProvider and wrap where we want to use the component and extract or send the variables.
